@@ -1,0 +1,25 @@
+{
+  "name": "post-prac-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevWebAbhi/post-prac-project.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DevWebAbhi/post-prac-project/issues"
+  },
+  "homepage": "https://github.com/DevWebAbhi/post-prac-project#readme"
+}
